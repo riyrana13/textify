@@ -1,17 +1,38 @@
-# textify
+# 📷 Textify
 
-A new Flutter project.
+**Textify** is a simple and fast Flutter app that lets you extract text from images using OCR (Optical Character Recognition). Just click or upload an image, and boom — your text is ready to be copied and used anywhere!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📸 **Extract text from any image** using OCR (powered by Google ML Kit or similar)
+- 📋 **One-tap copy** to clipboard
+- 🧠 Clean, minimal UI for distraction-free usage
+- 🕶️ Works with both camera and gallery images
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# textify
+## 🧪 Use Case Example
+
+1. Take a picture of any printed or handwritten text (a book, receipt, or your teacher's "no phones" sign 😎).
+2. Textify scans the image and extracts the text.
+3. Tap "Copy" and use it wherever you want — notes, chat, email, etc.
+
+---
+
+## 🖼️ Screenshot
+
+<img src="screenshots/app_preview.png" alt="Textify Screenshot" width="300"/>
+
+> *(Make sure to save your app screenshot in a `screenshots/` folder and name it `app_preview.png` or anything you prefer.)*
+
+---
+
+## 🚀 Getting Started
+
+To run this app locally:
+
+```bash
+flutter pub get
+flutter run
