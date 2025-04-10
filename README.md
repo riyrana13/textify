@@ -6,7 +6,7 @@
 
 ## ✨ Features
 
-- 📸 **Extract text from any image** using OCR (powered by Google ML Kit or similar)
+- 📸 **Extract text from any image** using on-device OCR powered by `google_mlkit_text_recognition`
 - 📋 **One-tap copy** to clipboard
 - 🧠 Clean, minimal UI for distraction-free usage
 - 🕶️ Works with both camera and gallery images
@@ -15,7 +15,7 @@
 
 ## 🧪 Use Case Example
 
-1. Take a picture of any printed or handwritten text (a book, receipt, or your teacher's "no phones" sign 😎).
+1. Take a picture of any printed or handwritten text (a book, receipt, or anything).
 2. Textify scans the image and extracts the text.
 3. Tap "Copy" and use it wherever you want — notes, chat, email, etc.
 
@@ -30,7 +30,6 @@
   <img src="screenshots/error.png" alt="Error State" width="150"/>
 </p>
 
-> _(Make sure to save your app screenshot in a `screenshots/` folder and name it `app_preview.png` or anything you prefer.)_
 
 ---
 
