@@ -23,9 +23,12 @@
 
 ## 🖼️ Screenshot
 
-<img src="screenshots/app_preview.png" alt="Textify Screenshot" width="300"/>
+<img src="screenshots/main.png" alt="Textify Screenshot" width="300"/>
+<img src="screenshots/output.png" alt="Textify Screenshot" width="300"/>
+<img src="screenshots/copied.png" alt="Textify Screenshot" width="300"/>
+<img src="screenshots/error.png" alt="Textify Screenshot" width="300"/>
 
-> *(Make sure to save your app screenshot in a `screenshots/` folder and name it `app_preview.png` or anything you prefer.)*
+> _(Make sure to save your app screenshot in a `screenshots/` folder and name it `app_preview.png` or anything you prefer.)_
 
 ---
 
@@ -36,3 +39,4 @@ To run this app locally:
 ```bash
 flutter pub get
 flutter run
+```
