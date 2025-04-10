@@ -23,10 +23,12 @@
 
 ## 🖼️ Screenshot
 
-<img src="screenshots/main.png" alt="Textify Screenshot" width="300"/>
-<img src="screenshots/output.png" alt="Textify Screenshot" width="300"/>
-<img src="screenshots/copied.png" alt="Textify Screenshot" width="300"/>
-<img src="screenshots/error.png" alt="Textify Screenshot" width="300"/>
+<p align="left">
+  <img src="screenshots/main.png" alt="Main Screen" width="150" style="margin-right: 10px;"/>
+  <img src="screenshots/output.png" alt="Output Screen" width="150" style="margin-right: 10px;"/>
+  <img src="screenshots/copied.png" alt="Copied Text" width="150" style="margin-right: 10px;"/>
+  <img src="screenshots/error.png" alt="Error State" width="150"/>
+</p>
 
 > _(Make sure to save your app screenshot in a `screenshots/` folder and name it `app_preview.png` or anything you prefer.)_
 
